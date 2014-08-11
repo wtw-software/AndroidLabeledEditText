@@ -29,3 +29,11 @@ Add and use LabeledEditText as you would any other EditText widget, with the exc
   ... 
   />
 ```
+
+## Automagic
+
+- label defaults to hint, if hint is set. 
+- If both hint and label are set, AND they match, only label will be displayed. 
+- labelMargin defaults to 16dp.
+- labelColor defaults to hintColor. 
+
