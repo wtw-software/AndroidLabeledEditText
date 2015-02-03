@@ -40,7 +40,7 @@ public class LabeledEditText extends EditText {
         } catch (NullPointerException e) {
         }
 
-        int defaultMargin = isInEditMode() ? 16 : getContext().getResources().getDimensionPixelSize(R.dimen.label_margin_default);
+        int defaultMargin = 16;
         ColorStateList labelColor = null;
 
         if (a != null) {
