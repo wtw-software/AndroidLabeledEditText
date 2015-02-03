@@ -6,7 +6,7 @@
 
     <groupId>no.wtw.android</groupId>
     <artifactId>android-labeled-edittext</artifactId>
-    <version>1.1</version>
+    <version>1.2</version>
     <packaging>aar</packaging>
     <name>AndroidLabeledEditText</name>
 
